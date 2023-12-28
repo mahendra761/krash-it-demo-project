@@ -675,8 +675,8 @@ nav.sticky .nav-1>.blog-hover {
             position: relative;
             text-align: center;
 
-            /* background:#e9e6e7; */
-            img {
+           
+           img {
                 @include transition(.3s);
                 max-height: 180px;
                 border-top-right-radius: 10px;
