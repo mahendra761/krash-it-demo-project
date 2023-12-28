@@ -98,5 +98,7 @@
    .deal-sec>img{
     width: 100%;
    }
-  
+  .card-image{
+    width: 100%;
+  }
 }
